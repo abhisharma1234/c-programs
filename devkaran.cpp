@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
 	int a,b,sum,sub,mu1,idiv,mod;
 	float fdiv;
